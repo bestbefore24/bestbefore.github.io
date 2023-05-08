@@ -1,0 +1,41 @@
+body.orange{
+    background-color: orange;
+}
+body.red{
+    background-color: red;
+}
+
+body.yellow{
+    background-color: yellow;
+}
+
+body.nice{
+    background-color:rgb(8, 64, 219)
+}
+
+body.rgb{
+    background-color: rgb(207, 66, 66);
+}
+
+p{
+    font-family: fantasy;
+}
+
+.citation{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 0.2em;
+}
+
+#intro{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+img{
+    width: 45%;
+}
+
+#cubs{
+    position: relative;
+    bottom: 20%;
+}
+
